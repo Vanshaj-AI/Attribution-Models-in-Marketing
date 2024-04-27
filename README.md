@@ -15,7 +15,7 @@
   <h3>Data Processing</h3>
   <p>The dataset for this project includes information such as the cookie ID, time of interaction, and type of interaction for each marketing channel (e.g., Instagram, Facebook). It also includes conversion-related fields, such as a boolean variable indicating whether a conversion took place and the value of the potential conversion event.</p>
   <h3>Transforming Data</h3>
-  <p>One of the key steps in the project is transforming the data from a long form to a wide form. This transformation involves structuring the dataset so that each row represents a user (cookie) and contains the various touchpoints in chronological order. This transformation is essential for analyzing the customer journey and computing transition probabilities between different marketing channels.</p>
+  <p>We are transforming the data from a long form to a wide form. This transformation involves structuring the dataset so that each row represents a user (cookie) and contains the various touchpoints in chronological order. This transformation is essential for analyzing the customer journey and computing transition probabilities between different marketing channels.</p>
   <h3>Calculating Transition Probabilities</h3>
   <p>The main objective of the project is to compute the transition probabilities for the various states in the customer journey. This involves calculating the probability of a user moving from one marketing channel to another and identifying the impact of each channel on the conversion process.</p>
   <h3>Impact of Channel Removal</h3>
