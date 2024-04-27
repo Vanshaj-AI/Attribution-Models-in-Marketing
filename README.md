@@ -1,5 +1,3 @@
-# Attribution-Models-in-Marketing
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
